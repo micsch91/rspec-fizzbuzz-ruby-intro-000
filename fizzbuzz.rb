@@ -4,7 +4,7 @@ def fizzbuzz(int)
   if int % 3 == 0
     "Fizz"
 end
-
+  end
 def fizzbuzz(5)
   if fizz_5 % 5 == 0
     "Buzz"
