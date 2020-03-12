@@ -7,7 +7,7 @@ end
   end
 
 def fizzbuzz(15)
-  if fizzbuzz(15) % 3 || 5 == 0
+  if int % 3 || 5 == 0
     "FizzBuzz"
 end
   end
