@@ -6,7 +6,7 @@ def fizzbuzz(int)
 end
 
 def fizzbuzz(5)
-  if fizz_5 % 5 == 0
+  if int % fizz_5 == 0
     "Buzz"
 end
     end
