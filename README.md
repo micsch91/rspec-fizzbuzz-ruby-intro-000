@@ -464,7 +464,7 @@ That's the end of the tutorial part of this lab. You know enough about RSpec and
 
 ```ruby
 def fizzbuzz(int)
-  if int % 3 == 3 # if the number int is divisible by 3
+  if int % 3 == 0 # if the number int is divisible by 3
     "Fizz" # Go fizz
   end
 end
